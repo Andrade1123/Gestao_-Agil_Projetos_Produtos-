@@ -1,2 +1,2 @@
 # Gestao_ Agil_Projetos_Produtos 
- Entregar um MVP
+ O Objetivo desse repositório é entregar as evidencias a entrega do MVP
